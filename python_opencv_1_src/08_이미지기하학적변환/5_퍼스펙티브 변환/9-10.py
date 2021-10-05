@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 
 
-
+point_list = []
 src = np.zeros([4, 2], dtype=np.float32)
 idx = 0
 
